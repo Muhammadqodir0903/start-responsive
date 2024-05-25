@@ -1,0 +1,21 @@
+.header{
+    background-color: rgb(116, 198, 157);
+    height: 50px;
+    padding-top: 35px;
+    padding-bottom: 40px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav__list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.nav__item{
+    margin-left: 30px;
+    
+}

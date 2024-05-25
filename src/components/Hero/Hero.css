@@ -1,0 +1,22 @@
+.hero{
+    margin-top: -25px;
+    background-color: rgb(116, 198, 157);
+}
+.hero__wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   padding-top: 125px;
+   padding-bottom: 82px;
+}
+.hero__info{
+    margin-top: -125px;
+    color: white;
+    button{
+        width: 170px;
+        height: 48px;
+        border: none;
+        border-radius: 5px;
+        margin-top: 25px;
+    }
+}

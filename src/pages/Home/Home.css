@@ -1,0 +1,42 @@
+.home__top{
+    width: 410px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 65px;
+    h4{
+        font-weight: 700;
+        font-size: 16px;
+        color: rgb(116, 198, 157);
+        letter-spacing: 5px;
+    }
+    h2{
+        font-weight: 700;
+        font-style: 40px;
+        font-family: serif;
+    }
+    p{
+        font-weight: 400;
+        font-style: 20px;
+        font-family: sans-serif;
+        line-height: 2;
+    }
+    
+}
+.links{
+    text-align: center;
+    cursor: pointer;
+    margin-top: 55px;
+    margin-bottom: 55px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    .link__btn{
+        margin-top: 55px;
+        width: 170px;
+        height: 48px;
+        border-radius: 10px;
+        background: black;
+        color: white;
+    }
+}
